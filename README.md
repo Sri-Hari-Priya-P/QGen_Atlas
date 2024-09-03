@@ -1,8 +1,8 @@
 # QGen Atlas - Multilingual Query Generation and Response Validation
 ## Authors
 
+- Sri Hari Priya Panchumarthi (sriharipriya2529@gmail.com)
 - Sai Pranav Kothapalli (saipranavkothapalli@gmail.com)
-- Panchumarthi Sri Hari Priya (sriharipriya2529@gmail.com)
 - Deepthi Godavarthi (saideepthi531@gmail.com)
 
 ## Institution
