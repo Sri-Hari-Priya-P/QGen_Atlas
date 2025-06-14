@@ -1,13 +1,4 @@
 # QGen Atlas - Multilingual Query Generation and Response Validation
-## Authors
-
-- Sri Hari Priya Panchumarthi (sriharipriya2529@gmail.com)
-- Sai Pranav Kothapalli (saipranavkothapalli@gmail.com)
-- Deepthi Godavarthi (saideepthi531@gmail.com)
-
-## Institution
-
-School of Computer Science and Engineering, VIT-AP University, Inavolu Beside AP Secretariat, Amaravati, Andhra Pradesh, India
 
 <img width="822" alt="Screenshot 2024-07-05 at 6 24 42 PM" src="https://github.com/saipranavkothapalli/QGen-Atlas/assets/144220767/8c61b40e-e785-4c1e-bd7d-6fda775ad872">
 
